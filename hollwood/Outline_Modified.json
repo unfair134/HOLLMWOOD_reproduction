@@ -1,0 +1,142 @@
+{
+ "plot_1": {
+  "plot_text": "Dr. Iris Hawke develops a groundbreaking method to grow crops using Martian soil and irradiated water, providing hope for the Mars colony's survival.\nScene: Mars Colony, Agricultural Research Lab\nCharacters: Dr. Iris Hawke\n</plot_1>",
+  "scene": "Mars Colony, Agricultural Research Lab",
+  "characters": [
+   "Dr. Iris Hawke",
+   "Dr. Elena Martinez",
+   "Dr. Amara Patel"
+  ]
+ },
+ "plot_1a": {
+  "plot_text": "Iris conducts a series of experiments to test her new method, showing promising results and earning the support of her colleagues.\nScene: Agricultural Research Lab\nCharacters: Dr. Iris Hawke, Dr. Elena Martinez\n</plot_1a>",
+  "scene": "Agricultural Research Lab",
+  "characters": [
+   "Dr. Iris Hawke",
+   "Dr. Elena Martinez",
+   "Dr. Amara Patel"
+  ]
+ },
+ "plot_1b": {
+  "plot_text": "The success of the new method leads to a significant increase in food production, but tensions arise between Iris and Captain Zhang over safety protocols.\nScene: Mars Colony, Agricultural Research Lab\nCharacters: Dr. Iris Hawke, Captain Leo Zhang\n</plot_1b>",
+  "scene": "Mars Colony, Agricultural Research Lab",
+  "characters": [
+   "Dr. Iris Hawke",
+   "Captain Leo Zhang",
+   "Dr. Elena Martinez",
+   "Dr. Amara Patel"
+  ]
+ },
+ "plot_2": {
+  "plot_text": "A deadly pathogen is released from the Martian soil, mutating the crops and causing a lethal disease among the colonists.\nScene: Mars Colony, Medical Center\nCharacters: Dr. Iris Hawke, Dr. Amara Patel, Dr. Elena Martinez\n</plot_2>",
+  "scene": "Mars Colony, Medical Center",
+  "characters": [
+   "Dr. Iris Hawke",
+   "Dr. Elena Martinez",
+   "Dr. Amara Patel"
+  ]
+ },
+ "plot_2a": {
+  "plot_text": "Iris and Elena work together to identify the nature of the pathogen and its source, while Amara treats the growing number of infected patients.\nScene: Medical Center, Research Lab\nCharacters: Dr. Iris Hawke, Dr. Elena Martinez, Dr. Amara Patel\n</plot_2a>",
+  "scene": "Medical Center, Research Lab",
+  "characters": [
+   "Dr. Iris Hawke",
+   "Dr. Elena Martinez",
+   "Dr. Amara Patel"
+  ]
+ },
+ "plot_2b": {
+  "plot_text": "Captain Zhang implements strict quarantine measures, causing friction with Sam Reed, who advocates for more practical solutions.\nScene: Mars Colony, Security Command Center\nCharacters: Captain Leo Zhang, Samuel \"Sam\" Reed\n</plot_2b>",
+  "scene": "Mars Colony, Security Command Center",
+  "characters": [
+   "Captain Leo Zhang",
+   "Samuel \"Sam\" Reed"
+  ]
+ },
+ "plot_3": {
+  "plot_text": "Iris, Elena, and Amara race against time to develop a cure for the pathogen, facing ethical dilemmas and personal conflicts.\nScene: Research Lab, Medical Center\nCharacters: Dr. Iris Hawke, Dr. Elena Martinez, Dr. Amara Patel\n</plot_3>",
+  "scene": "Research Lab, Medical Center",
+  "characters": [
+   "Dr. Iris Hawke",
+   "Dr. Elena Martinez",
+   "Dr. Amara Patel"
+  ]
+ },
+ "plot_3a": {
+  "plot_text": "Iris and Elena make a breakthrough in understanding the pathogen’s mutation, but they need to conduct a risky experiment to confirm their findings.\nScene: Research Lab\nCharacters: Dr. Iris Hawke, Dr. Elena Martinez\n</plot_3a>",
+  "scene": "Research Lab",
+  "characters": [
+   "Dr. Iris Hawke",
+   "Dr. Elena Martinez",
+   "Dr. Amara Patel"
+  ]
+ },
+ "plot_3b": {
+  "plot_text": "Amara faces a difficult decision when she must choose between treating a critically ill child or an essential worker, testing her moral compass.\nScene: Medical Center\nCharacters: Dr. Amara Patel\n</plot_3b>",
+  "scene": "Medical Center",
+  "characters": [
+   "Dr. Iris Hawke",
+   "Dr. Elena Martinez",
+   "Dr. Amara Patel"
+  ]
+ },
+ "plot_4": {
+  "plot_text": "With the help of Sam and Captain Zhang, Iris and her team manage to build and maintain the critical infrastructure needed to combat the crisis.\nScene: Mars Colony, Engineering Workshop, Security Command Center\nCharacters: Dr. Iris Hawke, Samuel \"Sam\" Reed, Captain Leo Zhang\n</plot_4>",
+  "scene": "Mars Colony, Engineering Workshop, Security Command Center",
+  "characters": [
+   "Dr. Iris Hawke",
+   "Captain Leo Zhang",
+   "Dr. Elena Martinez",
+   "Samuel \"Sam\" Reed",
+   "Dr. Amara Patel"
+  ]
+ },
+ "plot_4a": {
+  "plot_text": "Sam designs and constructs a containment unit to isolate the infected, showcasing his ingenuity and problem-solving skills.\nScene: Engineering Workshop\nCharacters: Samuel \"Sam\" Reed, Dr. Iris Hawke\n</plot_4a>",
+  "scene": "Engineering Workshop",
+  "characters": [
+   "Dr. Iris Hawke",
+   "Dr. Elena Martinez",
+   "Samuel \"Sam\" Reed",
+   "Dr. Amara Patel"
+  ]
+ },
+ "plot_4b": {
+  "plot_text": "Captain Zhang provides the necessary resources and support, while also dealing with his own emotional conflicts and his secret romantic interest in Iris.\nScene: Security Command Center\nCharacters: Captain Leo Zhang, Dr. Iris Hawke\n</plot_4b>",
+  "scene": "Security Command Center",
+  "characters": [
+   "Dr. Iris Hawke",
+   "Captain Leo Zhang",
+   "Dr. Elena Martinez",
+   "Dr. Amara Patel"
+  ]
+ },
+ "plot_5": {
+  "plot_text": "The team successfully develops a cure and begins the process of distributing it to the infected, bringing hope back to the colony.\nScene: Mars Colony, Medical Center, Distribution Center\nCharacters: Dr. Iris Hawke, Dr. Elena Martinez, Dr. Amara Patel, Samuel \"Sam\" Reed, Captain Leo Zhang\n</plot_5>",
+  "scene": "Mars Colony, Medical Center, Distribution Center",
+  "characters": [
+   "Dr. Iris Hawke",
+   "Captain Leo Zhang",
+   "Dr. Elena Martinez",
+   "Samuel \"Sam\" Reed",
+   "Dr. Amara Patel"
+  ]
+ },
+ "plot_5a": {
+  "plot_text": "Iris and Elena finalize the cure and prepare it for mass distribution, working closely with Amara to ensure proper treatment protocols.\nScene: Medical Center, Research Lab\nCharacters: Dr. Iris Hawke, Dr. Elena Martinez, Dr. Amara Patel\n</plot_5a>",
+  "scene": "Medical Center, Research Lab",
+  "characters": [
+   "Dr. Iris Hawke",
+   "Dr. Elena Martinez",
+   "Dr. Amara Patel"
+  ]
+ },
+ "plot_5b": {
+  "plot_text": "Sam and Captain Zhang coordinate the logistics of the cure distribution, ensuring that all colonists receive the treatment in a timely manner.\nScene: Distribution Center, Security Command Center\nCharacters: Samuel \"Sam\" Reed, Captain Leo Zhang\n</plot_5b>\n</outline>",
+  "scene": "Distribution Center, Security Command Center",
+  "characters": [
+   "Captain Leo Zhang",
+   "Samuel \"Sam\" Reed"
+  ]
+ }
+}
